@@ -1,0 +1,25 @@
+{
+  "name": "gitlogs-coffee",
+  "version": "1.0.0",
+  "description": "",
+  "main": "createLogs.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AnthonyJHolmes/gitlogs-coffee.git"
+  },
+  "keywords": [
+    "git",
+    "log",
+    "logs",
+    "coffeescript"
+  ],
+  "author": "Anthony Holmes <anthony.holmes@teamwork.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnthonyJHolmes/gitlogs-coffee/issues"
+  },
+  "homepage": "https://github.com/AnthonyJHolmes/gitlogs-coffee"
+}
