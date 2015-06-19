@@ -1,6 +1,6 @@
 # gitlog-coffee
 Generates a log file from certain prefixes.
----
+
 [![NPM](https://nodei.co/npm/gitlogs-coffee.png?downloads=true&stars=true)](https://nodei.co/npm/gitlogs-coffee/)
 ---
 **Usage**
